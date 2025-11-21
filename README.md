@@ -1,4 +1,4 @@
-# MAD_24172012060_Prac3: Implicit & Explicit Intents Demonstration
+# MAD_24172022007_Prac3: Implicit & Explicit Intents Demonstration
 
 ## Project Overview
 This Android application demonstrates both **implicit** and **explicit** Intents by enabling the following functionalities directly from the app:
